@@ -73,7 +73,7 @@ timestamp,user,src_ip,action
 
 ## 🎬 Demo
 
-![Dashboard Demo](screenshots/Threat_Splunk.png)
+![Dashboard Demo](Screenshots/Threat_Splunk.png)
 
 ---
 
