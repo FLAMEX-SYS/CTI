@@ -74,7 +74,6 @@ timestamp,user,src_ip,action
 ## 🎬 Demo
 
 ![Dashboard Demo](screenshots/Threat_Splunk.png)
-![Dashboard Demo](screenshots/dashboard_demo.gif)
 
 ---
 
